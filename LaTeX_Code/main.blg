@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: certification.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: about.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: chapters/summary.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: chapters/acknowledgements.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+Database file #1: thesis_bib_library.bib
+Warning--can't use both author and editor fields in Nicoletti2013
+Warning--empty journal in Dibiase2001
+Warning--empty journal in Johnson1993
+Warning--empty journal in Adavanne2017
+Warning--empty journal in Soendergaard2013
+Warning--can't use both author and editor fields in Enzner2013
+Warning--can't use both author and editor fields in Tsilfidis2013
+Warning--can't use both author and editor fields in Kohlrausch2013
+Warning--empty title in Kohlrausch2013
+Warning--empty institution in Carter2009
+Warning--empty booktitle in Russell1994ArtificialIA
+You've used 45 entries,
+            1876 wiz_defined-function locations,
+            782 strings with 11718 characters,
+and the built_in function-call counts, 12551 in all, are:
+= -- 1193
+> -- 594
+< -- 0
++ -- 215
+- -- 170
+* -- 899
+:= -- 1775
+add.period$ -- 52
+call.type$ -- 45
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 56
+duplicate$ -- 585
+empty$ -- 1159
+format.name$ -- 170
+if$ -- 3043
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 41
+newline$ -- 145
+num.names$ -- 45
+pop$ -- 181
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 444
+stack$ -- 0
+substring$ -- 811
+swap$ -- 251
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 121
+width$ -- 47
+write$ -- 412
+(There were 11 warnings)

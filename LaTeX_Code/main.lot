@@ -1,0 +1,12 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Σύγκριση χρόνων σύκλισης των μοντέλων σε εποχές και λεπτά.\relax }}{71}{table.caption.43}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Αποτελέσματα εκτίμισης γωνίας άφιξης για διαφορετικά σήματα διέγερσης.\relax }}{73}{table.caption.44}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Σύγκριση DOA Accuracy της προτεινόμενης μεθόδου, με άλλες δημοσιευμένες μεθόδου.\relax }}{74}{table.caption.45}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Σύγκριση των μοντέλων ως προς την αρχιτεκτονική που χρησιμοποιήθηκε και τις εισόδους. Με R/C σημειώνεται αν το νευρωνικό ήταν τύπου regression ή classification.\relax }}{75}{table.caption.46}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Σύγκριση των μοντέλων ως προς τα δεδομένα που χρησιμοποιήθηκαν για την εκπαίδευσή τους.\relax }}{75}{table.caption.47}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Σύγκριση accuracy και χρόνων στις fully connected αρχιτεκτονικές για συμπιεσμένα και ασυμπίεστα δεδομένα.\relax }}{76}{table.caption.48}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Σύγκριση accuracy και χρόνων στις convolutional αρχιτεκτονικές για συμπιεσμένα και ασυμπίεστα δεδομένα.\relax }}{76}{table.caption.49}%
+\addvspace {10\p@ }

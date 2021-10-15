@@ -1,0 +1,62 @@
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Θεωρία - Μέθοδος}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Στερεοφωνική και Αμφιωτική ακρόαση}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Στερεοφωνική ακρόαση}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Αμφιωτική ακρόαση}{7}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Συνάρτηση Μεταφοράς Κεφαλιού - HRTF}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Μέτρηση HRTF}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Υπολογισμός HRTF}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Βάσεις δεδομένων HRTF}{12}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Αμφιωτική Κρουστική Απόκριση Δωματίου - BRIR}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Αμφιωτικές Παράμετροι}{18}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Interaural Time Difference}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Interaural Level Difference}{20}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Εντοπισμός ηχητικών γεγονότων}{21}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Μοντέλο dietz2011}{23}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Ακουστική επεξεργασία}{23}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}Λευκός Θόρυβος}{27}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Μηχανική Μάθηση}{28}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Μη επιβλεπόμενη μάθηση}{29}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Ενισχυτική μάθηση}{29}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Επιβλεπόμενη μάθηση}{30}{subsection.2.7.3}%
+\contentsline {section}{\numberline {2.8}Νευρωνικά Δίκτυα}{32}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Νευρώνες}{32}{subsection.2.8.1}%
+\contentsline {subsubsection}{Βασική Δομή Νευρώνα}{33}{figure.caption.14}%
+\contentsline {subsubsection}{Συναρτήσεις ενεργοποίησης}{33}{figure.caption.15}%
+\contentsline {subsection}{\numberline {2.8.2}Οργάνωση}{34}{subsection.2.8.2}%
+\contentsline {subsubsection}{Υπερπαράμετροι}{35}{subsection.2.8.2}%
+\contentsline {subsubsection}{Backpropagation}{35}{subsection.2.8.2}%
+\contentsline {subsubsection}{Αρχιτεκτονικές}{35}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}Συναρτήσεις Απώλειας}{37}{subsection.2.8.3}%
+\contentsline {subsubsection}{Μέσο Απόλυτο Σφάλμα}{37}{subsection.2.8.3}%
+\contentsline {subsubsection}{Μέσο Τετραγωνικό Σφάλμα}{37}{equation.2.8.0}%
+\contentsline {subsubsection}{Ρίζα Μέσου Τετραγωνικού Σφάλματος}{38}{equation.2.8.0}%
+\contentsline {chapter}{\numberline {3}Υλοποίηση}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Σήματα εισόδου}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Δημιουργία αμφιωτικών σημάτων}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Εξαγωγή αμφιωτικών παραμέτρων}{45}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Φιλτράρισμα Μέσου Αυτιού}{45}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Προσομοίωση Εσωτερικού Αυτιού}{46}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Τράπεζα Φίλτρων Διαμόρφωσης}{49}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Αμφιωτικός επεξεργαστής}{50}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Συμπίεση Δεδομένων}{51}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Κίνητρο}{52}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Αντιληπτική Συμπίεση}{52}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Αλγοριθμική Συμπίεση}{55}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Προεπεξεργασία Δεδομένων}{57}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Αρχιτεκτονικές Νευρωνικών Δικτύων}{59}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Fully Connected}{59}{subsection.3.6.1}%
+\contentsline {subsubsection}{Επίπεδο Dropout}{60}{figure.caption.33}%
+\contentsline {subsection}{\numberline {3.6.2}Convolutional}{61}{subsection.3.6.2}%
+\contentsline {chapter}{\numberline {4}Αποτελέσματα}{65}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Αποτελέσματα εκπαίδευσης}{66}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Πλήρως διασυνδεδεμένη αρχιτεκτονική}{66}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Συνελικτική αρχιτεκτονική}{69}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Χρόνοι σύγκλισης}{70}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Αποτελέσματα εκτίμησης}{72}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Σύγκριση με άλλες μεθόδους}{74}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Σύγκριση αποτελεσμάτων με και χωρίς συμπίεση}{76}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Συμπεράσματα}{79}{chapter.5}%
+\contentsline {chapter}{Κατάλογος σχημάτων}{81}{chapter*.50}%
+\contentsline {chapter}{Κατάλογος πινάκων}{85}{chapter*.51}%
+\contentsline {chapter}{Βιβλιογραφία}{87}{chapter*.52}%

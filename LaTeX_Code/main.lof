@@ -1,0 +1,46 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Απεικόνιση του μηχανισμού στερεοφωνικής ακρόασης\relax }}{7}{figure.caption.2}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Αντίληψη και εντοπισμός θέσης πηγής μέσω αμφιωτικής ακρόασης\relax }}{9}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Τυπικά σενάρια μέτρησης HRTF: Τροποποιημένο ανδρείκελο KEMAR (a), FABIAN (b)\relax }}{11}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ακροατής και ακουστική πηγή σε δωμάτιο με αντήχηση\relax }}{15}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces BRIR από δωμάτιο με υψηλή αντίχηση\relax }}{17}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ανατομική περιγραφή του ακουστικού συστήματος\relax }}{18}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Μοντέλο σύμπτωσης όπως αρχικά προτάθηκε από τον Jeffress\relax }}{20}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Δομή El-cell\relax }}{21}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Τα στάδια επεξεργασίας του ακουστικού μοντέλου. Η περιφερική επεξεργασία χωρίζει το σήμα εισόδου σε 23 ακουστικά φίλτρα ανά αυτί, και ακολουθείται από ανόρθωση ημίσεος κύματος, χαμηλοπερατό φιλτράρισμα και συμπίεση.\relax }}{26}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Τυπική μορφή σήματος λευκού θορύβου, στον χρόνο (Πάνω) και στη συχνότητα (Κάτω)\relax }}{27}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Αλληλεπίδραση πράκτορα με το περιβάλλον του\relax }}{28}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Παραδείγματα ζευγών $(x,f(x))$ και υποθέσεις διαφορετικών βαθμών πολυωνύμου (a) 1ου βαθμού, (b) 7ου βαθμού. (c) Ένα διαφορετικό dataset και μια γραμμική εκτίμηση, (d) ημιτονοειδής εκτίμηση\relax }}{30}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Νευρώνας και μυελινωμένος άξονας, με τη ροή του σήματος από τις εισόδους στους δενδρίτες στις εξόδους στον άξονα.\relax }}{33}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Μαθηματικό μοντέλο ενός νευρώνα με bias στο $x_0 = 1$\relax }}{34}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Η δομή του απλούστερου MLP.\relax }}{36}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Η δομή ενός απλού CNN.\relax }}{37}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Σήματα λευκού θορύβου που χρησιμοποιήθηκαν ως είσοδος στο μοντέλο.\relax }}{41}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Δημιουργία αμφιωτικών σημάτων. Το block sub-sampling χρησιμοποιείται μόνο στην περίπτωση που τα σήματα έχουν διαφορετική δειγματοληψία από την επιθυμητή $f_s = 44.1 kHz$\relax }}{43}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces (α'): BRIR και το αντίστοιχο Half Hanning παράθυρο, (β'): BRIR μετά την παραθύρωση. Τα σχήματα είναι για $f_s = 44.1 kHz$ \relax }}{44}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Συνοπτική περιγραφή της υλοποίησης του μοντέλου Dietz για το ακουστικό σύστημα.\relax }}{45}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Binaural σήμα για γωνία άφιξης $+80^o$, στο δωμάτιο Spirit.\relax }}{46}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces IIR φίλτρο τύπου butterworth που προσομοιώνει το φιλτράρισμα του μέσου αυτιού.\relax }}{47}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Αποτέλεσμα της επεξεργασίας του μέσου αυτιού.\relax }}{47}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Αποκρίσεις συχνότητας της τράπεζας φίλτρων gammatone.\relax }}{48}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Έξοδος του μοντέλου μετά τη μοντελοποίηση του εσωτερικού αυτιού.\relax }}{49}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Τελικές έξοδοι του μοντέλου: (Πάνω) ILD για 23 συχνοτικές μπάντες, (Κάτω) ITD για την δομή envelope - 11 μπάντες.\relax }}{50}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Προτεινόμενη μέθοδος συμπίεσης για τις αμφιωτικές παραμέτρους.\relax }}{51}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Σύγκριση πριν και μετά τη συμπίεση, της παραμέτρου ILD.\relax }}{53}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Σύγκριση πριν και μετά τη συμπίεση, της παραμέτρου ITD.\relax }}{54}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Προφίλ αμφιωτικών παραμέτρων: (Πάνω): ILD, (Κάτω): ITD.\relax }}{56}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Τυπικό παράδειγμα κανονικοποιημένου διανύσματος εισόδου στο ΝΝ από τις αμφιωτικές παραμέτρους για συγκεκριμένη γωνία άφιξης.\relax }}{58}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Fully connected χωρίς τα επίπεδα Dropout.\relax }}{60}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Περιγραφή της λειτουργίας του Dropout Layer.\relax }}{61}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Αναγωγή του Max Pooling σε δύο διαστάσεις.\relax }}{62}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Η αρχιτεκτονική του μοντέλου CNN για εκτίμηση DOA.\relax }}{63}{figure.caption.36}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Ιστορικό τιμών του MSE για την Fully Connected αρχιτεκτονική.\relax }}{67}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Ιστορικό τιμών του RMSE για την Fully Connected αρχιτεκτονική.\relax }}{68}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Ιστορικό τιμών του MAE για την Fully Connected αρχιτεκτονική.\relax }}{68}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Ιστορικό τιμών του MSE για την συνελικτική αρχιτεκτονική.\relax }}{69}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ιστορικό τιμών του RMSE για την συνελικτική αρχιτεκτονική.\relax }}{70}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Ιστορικό τιμών του MAE για την Fully Connected αρχιτεκτονική.\relax }}{70}{figure.caption.42}%
+\addvspace {10\p@ }
